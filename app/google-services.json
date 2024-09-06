@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "229427687341",
+    "project_id": "smarthomedashboard-8c0af",
+    "storage_bucket": "smarthomedashboard-8c0af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229427687341:android:35114430b73841f7b7bb24",
+        "android_client_info": {
+          "package_name": "com.example.smarthomedashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229427687341-7vhfr9ruvocfno6k3bftrsqa3jj83fe2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5QLJ6vxM7j-7C7CdLGkrEdVYyas4x-Sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229427687341-7vhfr9ruvocfno6k3bftrsqa3jj83fe2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
